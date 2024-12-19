@@ -1,8 +1,6 @@
-# Twilight Forge
-
 <p align="center">
   <a href="">
-    <img src="logo_outlined.svg" width="400" alt="Twilight Forge logo">
+    <img src="logo_outlined.png" width="800" alt="Twilight Forge logo">
   </a>
 </p>
 
