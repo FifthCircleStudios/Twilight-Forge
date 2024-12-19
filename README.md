@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img src="logo_outlined.png" width="800" alt="Twilight Forge logo">
+    <img src="logo_outlined.png" width="500" alt="Twilight Forge logo">
   </a>
 </p>
 
